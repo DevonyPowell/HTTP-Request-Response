@@ -1,5 +1,4 @@
 # Devony Powell
-# UTA_ID: 1001237272
 # March 9, 2018
 # Project 1
 # Project Description: create a client to accept and display response from a webserver
