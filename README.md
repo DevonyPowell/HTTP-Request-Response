@@ -14,7 +14,7 @@ Step 1: open two terminal windows - one for the web server, and the next for the
 	Note: make sure that the opened terminals are in the directory with the files 
 
 Step 2: compile and run the web server and client
-#	a. in the first terminal window, type: python TCPServer.py
+	a. in the first terminal window, type: python TCPServer.py
 	b. in the second terminal window, type: python TCPClient.py
 
 				
